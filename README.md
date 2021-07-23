@@ -7,7 +7,7 @@ Single Page Application describing my own professional resume.
 
 Clone the project
 ```
-$ git clone https://github.com/IngPorto/react-curriculum-vitae.git
+$ git clone https://github.com/Yama2019/react-curriculum-vitae.git
 ```
 Change the directory
 ```
@@ -26,11 +26,10 @@ Now you can access to _dist/index.html_
 
 ## Global access
 
-> [https://davidportocarrero.now.sh/](https://davidportocarrero.now.sh/)
+>
 
 ### Screenshots
 
-![screenshots](./statics/project-views.jpg)
 
 ### Note: Bug fixed
 
